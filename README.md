@@ -1,7 +1,6 @@
 
 ![App Screenshot](https://github.com/ANURAG-PARMAR1/Mapty/blob/master/logo.png?raw=true) 
 
-# Mapty
 Track Your Workouts in Real Time.  
 
 
